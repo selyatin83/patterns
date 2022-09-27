@@ -1,0 +1,5 @@
+/docker/postgres/data/
+/vendor/
+.env
+.idea
+/debug/

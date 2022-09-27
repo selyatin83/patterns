@@ -1,0 +1,21 @@
+{
+    "name": "mselyatin/patterns",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mselyatin\\Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Михаил Селятин",
+            "email": "mselyatin@enazamusic.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-json": "*",
+        "symfony/http-foundation": "^6.1",
+        "php-di/php-di": "^6.4"
+    }
+}
